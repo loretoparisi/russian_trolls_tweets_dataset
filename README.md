@@ -24,3 +24,7 @@ Users Dataset Header
 "id","location","name","followers_count","statuses_count","time_zone","verified","lang","screen_name","description","created_at","favourites_count","friends_count","listed_count"
 ```
 
+## 3 million Russian troll tweets
+From [fivethirtyeight/russian-troll-tweets](https://github.com/fivethirtyeight/russian-troll-tweets/).
+This data was used in the FiveThirtyEight story [Why We’re Sharing 3 Million Russian Troll Tweets](https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/).
+
